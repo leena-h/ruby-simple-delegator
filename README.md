@@ -1,1 +1,1 @@
-# simple-delegator
+# ✨ Ruby simple delegator demo
